@@ -1,0 +1,16 @@
+# Ignore Kaggle key folder
+_Kaggle API key/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore test folders
+__test/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+.env/
